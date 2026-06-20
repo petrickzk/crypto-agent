@@ -1,4 +1,4 @@
-print("Halo Petrick!")
+
 import os
 import requests
 
